@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "oracle-exam-practice": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/src/server.js", "--stdio"],
+      "startup_timeout_sec": 60
+    }
+  }
+}

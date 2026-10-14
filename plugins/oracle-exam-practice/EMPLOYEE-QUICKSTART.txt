@@ -1,0 +1,26 @@
+ORACLE EXAM PRACTICE — EMPLOYEE QUICKSTART
+
+Once your individual plug-in installation or approved ChatGPT connection is complete:
+
+1. Start a new ChatGPT conversation and select Oracle Exam Practice.
+2. Say “Open Oracle Exam Practice.”
+3. Enter the exact Oracle exam name and ID code.
+4. Wait while ChatGPT checks official Oracle sources and prepares 50 questions.
+5. Select your answers. Use Previous, Next, or the question numbers to navigate.
+6. Select Submit for grading when ready. Incomplete questions score zero.
+7. Review your percentage score and the explanations and references for missed questions.
+8. Choose Download results to keep a private copy, or Practice another exam.
+
+Single-answer questions have round selection controls. Multiple-answer questions
+have checkboxes and state how many answers to select. A multiple-answer question
+earns credit only when the whole selected set matches the correct set.
+
+Every correct question earns 2 points. This practice score is not Oracle's
+official exam score and does not establish whether you would pass certification.
+
+Keep your exam conversation and results private. Each attempt expires after
+48 hours. The questions are AI-generated study aids and may contain mistakes;
+use the linked Oracle references to check your understanding.
+
+INSTALLATION: See INSTALL.md. This source package must be installed and connected
+in a compatible ChatGPT host before it can generate questions.

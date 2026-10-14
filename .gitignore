@@ -1,0 +1,28 @@
+# Installed dependencies and bundled runtimes
+node_modules/
+runtime/
+# Generated builds, downloads, and isolated installer test profiles
+/build/
+/dist/
+/downloads/
+/work/
+__pycache__/
+*.pyc
+# Local secrets, exam attempts, scores, logs, and backups
+.env
+.env.*
+!.env.example
+data/
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.bak
+# Generated distribution archives and binaries
+*.exe
+*.zip
+*.tar.gz
+*.sha256
+# Editor and operating-system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "oracle-exam-practice",
+  "version": "1.1.0",
+  "description": "Original 50-question Oracle certification practice exams with interactive answers, percentage grading, explanations, and official study references.",
+  "keywords": ["oracle", "certification", "practice", "learning"]
+}

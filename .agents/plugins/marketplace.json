@@ -1,0 +1,20 @@
+{
+  "name": "oracle-practice-development",
+  "interface": {
+    "displayName": "Oracle Practice Development"
+  },
+  "plugins": [
+    {
+      "name": "oracle-exam-practice",
+      "source": {
+        "source": "local",
+        "path": "./plugins/oracle-exam-practice"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
